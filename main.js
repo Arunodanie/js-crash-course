@@ -1,4 +1,10 @@
 // const luckyNumber = 7;
 // console.log("The lucky number is " + luckyNumber)
 
-alert('Hello World');
+// let, const
+
+const score = 10;
+
+console.log(score);
+
+
